@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">I'm a Junior software developer from Madrid</h3>
+<p>I am a junior software developer with formation in both backend and frontend. I have recently completed my studies and I am actively seeking employment.
+  
+Although I currently have limited experience in video game development, I am dedicated to learning and training in new areas every day. My goal is to start working on small projects, such as those in Unity, to gain experience in the field. 
 
+My enthusiasm for video games and computers dates back to when I was around 3 years old, and it has shaped my desire to pursue a career in these fields.
+
+Looking ahead to the future, I aspire to work either in video game development or in the field of cybersecurity.
+
+</p>
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **JavaScript & Angular**
