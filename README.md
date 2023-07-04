@@ -3,9 +3,9 @@
 <p>
 I am a junior software developer with formation in both backend and frontend. I have recently completed my studies and I am actively seeking employment.
   
-As a passionate learner with a primary focus on full-stack development, I find myself increasingly drawn to the exciting realm of video game development. The immersive nature of gaming, combined with the technical challenges and creative opportunities it offers, has captivated my attention and sparked a deep curiosity within me. Besides that I am passionate about this world of video games since I was about 3 years old, so it is another incentive.
+As a software developer with a primary focus on full-stack development, I find myself increasingly drawn to the exciting realm of video game development. The immersive nature of gaming, combined with the technical challenges and creative opportunities it offers, has captivated my attention and sparked a deep curiosity within me. Besides that I am passionate about this world of video games since I was about 3 years old, so it is another incentive.
 
-Looking ahead to the future, I aspire to work either in video game development or in the field of cybersecurity.
+Looking ahead, I aspire to work in video game development or in the cybersecurity field and be able to improve my skills and knowledge.
 
 </p>
 - 🌱 I’m currently learning **Python**
