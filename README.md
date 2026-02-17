@@ -8,6 +8,7 @@ As a software developer with a primary focus on full-stack development, I find m
 Looking ahead, I aspire to work in video game development or in the cybersecurity field and be able to improve my skills and knowledge.
 
 </p>
+
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **JavaScript & Angular**
